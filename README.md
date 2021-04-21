@@ -1,2 +1,2 @@
 # RotatingNavigation
-This small piece of code contains rotating navigation of a web page
+This contain a lot of CSS code which will help to understand css better
